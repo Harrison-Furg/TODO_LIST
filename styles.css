@@ -34,7 +34,7 @@ html, body {
 }
 
 input {
-    width: 100px;
+    width: 500px;
     height: 30px;
     font-size: 15px;
     border: solid;
@@ -74,8 +74,7 @@ input {
     border-radius: 10px;
     height: 30px;
     width: 50px;
-    margin: 0px 2px;
-    margin-top: 15px;
+    margin: 15px 2px;
     text-align: center;
     font-size: 14px;
     cursor: pointer;
@@ -92,8 +91,7 @@ input {
     border-radius: 10px;
     height: 30px;
     width: 50px;
-    margin: 0px 2px;
-    margin-top: 15px;
+    margin: 15px 2px;
     text-align: center;
     font-size: 14px;
     cursor: pointer;
@@ -110,8 +108,7 @@ input {
     border-radius: 10px;
     height: 30px;
     width: 50px;
-    margin: 0px 2px;
-    margin-top: 15px;
+    margin: 15px 2px;
     text-align: center;
     font-size: 14px;
     cursor: pointer;
